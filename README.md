@@ -1,6 +1,8 @@
 # CS17: Assembly Language Programming
 Assembly Language allows the programmer to fully utilize all of the special features of the computer in the most efficient manner. It also aids the high-level language programmer in writing subroutines. The student will write Assembly Language programs that utilize the Intel Pentium chip architecture.
 
+If you don't care to read all of what's below, skip straight to the [resources](https://github.com/domantcor/cs17/edit/main/README.md#resources).
+
 ### What is This?
 The files here are my code among other things for nearly everything within Santa Monica College's CS17 (1740) course. Why you may ask? As a reference for those who don't know what to do or are generally lost in the course, and especially those who also learn based on actual examples of finished product, since I'm one of those people. This also means I'm telling you to not copy my code, and only use it as a reference.
 
@@ -9,7 +11,7 @@ Given the complete lack of documentation, resources, or really any support at al
 I also absolutely hate the [textbook](https://drive.google.com/file/d/1vSHU0EFNvhYojpBVP5A3-jagyOX8XS2E/view?usp=sharing), so you can think of this as a mild replacement for it, but you'll still probably have to refer to it a bit even with me writing all of this, unless you really, really, really don't want to. If not, I understand; I used other resources for like 98% of the course.
 
 ### Potential FAQs
-**What version of assembly are you using?** HLA (High Level Assembler - FASM back end, POLINK linker); Version 1.99 build 12920 (prototype). The default everything that comes with the quickstart guide I wrote, and what was provided with my own course.
+**What version of assembly are you using?** HLA (High Level Assembler - FASM back end, POLINK linker); Version 1.99 build 12920 (prototype). The default everything that comes with the installation guide I wrote, and what was provided with my own course.
 
 I'll add to this should there be any more commonly asked questions.
 
@@ -25,3 +27,9 @@ I'll add to this should there be any more commonly asked questions.
 **Affiliation:** I, nor this repository, hold any affiliation to Santa Monica College, or any other entities or individuals than myself at any official capacity. This is not an official resource of Santa Monica College, nor High Level Assembly.
 
 **Responsibility:** You are responsible for your own understanding and performance in your course should you be using this repository as an academic resource. This respository is a suppliment, not a substitute for your personal effort and study for this course.
+
+## Resources
+
+Textbook
+
+Installation Guide
