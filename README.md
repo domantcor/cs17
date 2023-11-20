@@ -8,7 +8,7 @@ The files here are my code among other things for nearly everything within Santa
 
 Given the complete lack of documentation, resources, or really any support at all regarding this course, I wanted to try to provide some source of support for those who may struggle with this course and the language. I really despise that this is a required course down the line to get a comp sci bachelors at most four years, but given that it's best and less work to get it done at a two year, namely this class in my case, the least that colleges could do is at least make it bearable. Nevertheless, it isn't, so here's your complete guide to passing this course and understanding HLA by yours truly.
 
-I also absolutely hate the [textbook](https://drive.google.com/file/d/1vSHU0EFNvhYojpBVP5A3-jagyOX8XS2E/view?usp=sharing), so you can think of this as a mild replacement for it, but you'll still probably have to refer to it a bit even with me writing all of this, unless you really, really, really don't want to. If not, I understand; I used other resources for like 98% of the course.
+I also absolutely hate the [textbook](https://drive.google.com/file/d/1vSHU0EFNvhYojpBVP5A3-jagyOX8XS2E), so you can think of this as a mild replacement for it, but you'll still probably have to refer to it a bit even with me writing all of this, unless you really, really, really don't want to. If not, I understand; I used other resources for like 98% of the course.
 
 ### Potential FAQs
 **What version of assembly are you using?** HLA (High Level Assembler - FASM back end, POLINK linker); Version 1.99 build 12920 (prototype). The default everything that comes with the installation guide I wrote, and what was provided with my own course.
@@ -30,6 +30,8 @@ I'll add to this should there be any more commonly asked questions.
 
 ## Resources
 
-Textbook
+[Textbook](https://drive.google.com/file/d/1vSHU0EFNvhYojpBVP5A3-jagyOX8XS2E)
 
 Installation Guide
+
+Scuffed Code Documentation
