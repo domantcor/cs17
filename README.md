@@ -1,7 +1,7 @@
 # CS17: Assembly Language Programming
 Assembly Language allows the programmer to fully utilize all of the special features of the computer in the most efficient manner. It also aids the high-level language programmer in writing subroutines. The student will write Assembly Language programs that utilize the Intel Pentium chip architecture.
 
-If you don't care to read all of what's below, skip straight to the [resources](https://github.com/domantcor/cs17/tree/main#resources).
+If you don't care to read all of what's below, skip straight to the [resources](https://github.com/domantcor/cs17/tree/main#resources), or just scroll down lol.
 
 ### What is This?
 The files here are my code among other things for nearly everything within Santa Monica College's CS17 (1740) course. Why you may ask? As a reference for those who don't know what to do or are generally lost in the course, and especially those who also learn based on actual examples of finished product, since I'm one of those people. This also means I'm telling you to not copy my code, and only use it as a reference.
